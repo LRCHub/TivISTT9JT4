@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "6cm上の景色",
+  "base_artist": "みお from BEST FRIENDS！",
+  "createdAt": "2025-12-17T18:23:06.847701Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "6cm上の景色",
+      "artist": "みお from BEST FRIENDS!",
+      "has_synced": false,
+      "path": "select/pl_01_6cm上の景色_みお_from_BEST_FRIENDS!.txt"
+    }
+  ]
+}
